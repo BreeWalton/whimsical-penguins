@@ -1,0 +1,16 @@
+.home-image{
+  font-size: 20px;
+  padding: 10px;
+  color: black;
+
+
+
+  background-image:url("https://unsplash.com/photos/aO1jND20GHA");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  height: 300px;
+  text-align: center;
+
+  padding-top: 150px;
+}
