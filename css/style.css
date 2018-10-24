@@ -1,16 +1,55 @@
-.home-image{
-  font-size: 20px;
-  padding: 10px;
-  color: black;
+body{
+  background-color: #0abab5;
+}
 
-
-
-  background-image:url("https://unsplash.com/photos/aO1jND20GHA");
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-
-  height: 300px;
+h1{
   text-align: center;
+  font-family: 'Mali', cursive;
+  font-style: bold;
+  font-size: 3.75em;
+}
 
-  padding-top: 150px;
+h2{
+  text-align: center;
+  font-family: 'Mali', cursive;
+  font-style: medium;
+  font-size: 1.875em;
+  }
+
+  h3{
+    font-family:'Mali', cursive;
+    font-style: semi-bold;
+    font-size: 1.5em;
+  }
+#nav{
+  text-align: center;
+  background-color: #ccae1f;
+  font-family: 'Mali', cursive;
+  font-size: 1.25em;
+
+}
+
+p{
+  text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-style: medium
+}
+
+.side{
+}
+
+.one{
+  text-align: center;
+}
+
+.two{
+  text-align: center;
+}
+
+.three{
+  text-align: center;
+}
+
+.tea{
+  text-align: center;
 }
